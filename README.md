@@ -8,6 +8,8 @@ git add README.md
 
 git commit -m "You could add a comment"
 
+git commit --amend -m "Updated text"
+
 git push -u origin master
 
 ================================
