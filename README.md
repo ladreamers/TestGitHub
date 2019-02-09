@@ -52,6 +52,8 @@ create-react-app hello-world     <-- create the app hello-world
 
 cd hello-world
 
+npm install --save ag-grid-community ag-grid-react react-dom-factories
+
 npm start
 
 
