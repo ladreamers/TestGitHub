@@ -2,6 +2,10 @@
 Testing GitHub
 ================================
 
+git clone http://..........   Sample1
+
+================================
+
 To update this file from git prompt:
 
 git add README.md
