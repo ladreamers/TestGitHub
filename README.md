@@ -37,6 +37,7 @@ git pull origin master
 git log
 
 ================================
+
 Fetch dependencies for Javascript app from Git (npm or yarn):  this will create a directory "node_modules" directory.
 
 npm i
