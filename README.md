@@ -44,3 +44,7 @@ npm i
 
 yarn
 
+================================
+
+npm install -g create-react-app
+
