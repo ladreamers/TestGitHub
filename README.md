@@ -46,5 +46,9 @@ yarn
 
 ================================
 
-npm install -g create-react-app
+npm install -g create-react-app    <-- install the tool
+
+create-react-app hello-world     <-- create the app hello-world
+
+
 
