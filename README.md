@@ -1,17 +1,26 @@
 # TestGitHub
 Testing GitHub
-
+================================
 To update this file from git prompt:
 
-1.  git add README.md
-2.  git commit -m "You could add a comment"
-3.  git push -u origin master
------------------------------------
+git add README.md
+git commit -m "You could add a comment"
+git push -u origin master
+================================
+git branch thirsty   <-- create branch "thirsty"
 
-1. git pull origin master
+git branch   <-- show the branch
 
+git checkout thirsty   <-- switch to this branch
 
+git push --set-upstream origin thirsty
 
+git merge thirsty     <-- merge branch to master
 
+git branch -d thirsty   <-- delete branch "thirsty"
+================================
 
+git pull origin master
+
+git log
 
