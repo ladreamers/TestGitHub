@@ -13,9 +13,11 @@ git branch   <-- show the branch
 
 git checkout thirsty   <-- switch to this branch
 
-git checkout master   <-- switch to master branch
+git push --set-upstream origin thirsty
 
+git merge thirsty
 ================================
+
 git pull origin master
 
 git log
